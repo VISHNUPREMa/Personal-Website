@@ -1,0 +1,25 @@
+body{
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+footer{
+  
+    width: auto;
+    height: 50vh;
+    
+}
+footer i:hover{
+    cursor: pointer;
+    color: beige;
+
+}
+footer p:hover{
+    cursor: pointer;
+    color: beige;
+
+}
